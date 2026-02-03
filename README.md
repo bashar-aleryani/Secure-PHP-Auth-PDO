@@ -3,10 +3,11 @@ A secure PHP Authentication system using PDO , password hashing , and protection
 
 ##لقطات من المشروع(screenshots)
 ###صفحة تسجيل الدخول 
-![Login Pags](login.png)
+![Login Pages](login.png)
 
 ###صفحة انشاء حساب 
-![Register Pags](register.png)
+![Register Pages](register.png)
 
 ###الصفحة الرئيسية بعد الدخول
-![Home Pags](home.png
+![Home Pages](home.png)
+
